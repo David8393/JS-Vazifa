@@ -55,3 +55,69 @@ function ceil(a) {
 
 console.log(ceil(4.02));
 
+// New task
+
+// 0 ~ 100 => toq, juft, 
+for (let i = 1; i <= 100; i = i + 2) {
+    console.log(i);
+}
+
+for (let i = 0; i <= 100; i = i + 2) {
+    console.log(i);
+}
+// 10 ~ 0
+for (let i = 10; i >= 0; i --) {
+    console.log(i)
+}
+// title = "webBrain Academy" x 5
+let A = 5;
+let B = "Webbrain academy ";
+let Str = '';
+
+for (let i = 0; i < A; i++) {
+    Str = Str + B
+}
+console.log(Str);
+// a, b
+// a
+
+var txt = "welcome webbrain ";
+var rep = txt.repeat(5);
+count = 0;
+
+for (var i = 0; i < rep.length; i++) {
+    if (rep.charAt(i) === 'a') {
+        count++
+    }
+}
+
+console.log(count);
+
+// b
+
+var txt = 'welcome webbrain ';
+var rep = txt.repeat(5);
+count = 0;
+
+for (var i = 0; i < rep.length; i++) {
+  if (rep.charAt(i) === 'b') {
+    count++;
+  }
+}
+
+console.log(count);
+//remove white space
+
+let A = 5;
+let B = "Webbrain academy";
+let Str = '';
+
+for (let i = 0; i < A; i++) {
+   Str += B.trim();
+}
+
+console.log(Str);
+
+
+
+
