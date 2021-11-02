@@ -120,6 +120,15 @@
 
 // console.log(Str);
 
+// a = 0;
+// b = 0;
+// for (let i = 0; i < title.length; i++)  {
+//     (title[i] === 'a' || title[i] === 'A') && a++;
+//     (title[i] === 'b' || title[i] === 'B') && b++;
+    
+// }
+// console.log(a, ' = A');
+// console.log(b, ' = B');
 
 
 
