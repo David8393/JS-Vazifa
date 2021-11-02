@@ -141,3 +141,15 @@
 // }
 
 // console.log(str.trim());
+
+// a = '123'
+
+// console.log (a.split ('').reverse().join('') + a)
+
+// str = '';
+// for (let i = a.length - 1; i >= 0; i--) {
+//     str = str + a[i];
+
+// }
+
+// console.log(str);
