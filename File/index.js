@@ -130,5 +130,14 @@
 // console.log(a, ' = A');
 // console.log(b, ' = B');
 
+// var title = 'WebBrainAcademy'.repeat(5);
 
+// str = '';
+// for (let i = 0; i < title.length; i++) {
+//     title[i] === title[i].toUpperCase()
+//         ? (str = str + `${title[i]}`);
+//     : (str = str + title[i]);
+    
+// }
 
+// console.log(str.trim());
