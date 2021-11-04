@@ -153,3 +153,33 @@
 // }
 
 // console.log(str);
+
+// matndagi # ni orniga qavs qoyish;
+// let text = "Salom#Prep#uz"
+// var count = 1;
+// for (let i = 0; i < text.length; i++) {
+    // if (count % 2 == 1) {
+        // if (text[i] === '#') {
+        //     text.replace(text[i], '(');
+        //     count++
+        // }
+    // }
+    // else {
+    //     if (text[i] === '#') {
+    //         text.replace(text[i], ')');
+    //         count++;
+    //     }
+    // }
+// }
+// console.log(text); 
+
+// tub sonni topish
+
+// for (let i = 2; i <= 200; i++)
+// {
+//     var count = 0;
+//     for (let j = 2; j <= parseInt(Math.sqrt(i)); j++){
+//         i % j === 0 && count++;
+//     }
+//     count ===0 && console.log(i,"tub son");
+// }
