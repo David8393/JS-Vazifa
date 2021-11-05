@@ -28,18 +28,16 @@
 // vazifa 
 
 // var fruits = ['apple', 12, 'Ananas', 'Orange', 'Banana', 'Kiwi'];
-// fruits = fruits.toString();
+// // fruits = fruits.toString();
 // let result1 = 0;
 // let result2 = 0;
 
 // for (let i = 0; i < fruits.length; i++) {
 //     const element = fruits[i];
 
-//     for (let j = 0; j < i.length; j++) {
+//     for (let j = 0; j < fruits.length; j++) {
 //         const element = i[j];
-        
 //     }
-    
 // }
 // console.log(fruits)
 
