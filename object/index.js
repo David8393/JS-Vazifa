@@ -1,4 +1,4 @@
-ar[
+users = [
     {
         id: 1,
         year: 2010,
@@ -22,8 +22,17 @@ ar[
     }
 ];
 
-console.log(user);
+// const onSort = (value, key) => { };
 
-const onDelete = (id) => { }
+// onDelete //
 
-const onSort = (value, key) => {};
+const onDelete = (users, id) => {
+  let data = [];
+  for (let i = 0; i < users.length; i++) {
+    if (users[i]['id'] !== id) {
+      data.push(users[i]);
+    }
+  }
+  return data;
+};
+console.log(onDelete(users, 1));
