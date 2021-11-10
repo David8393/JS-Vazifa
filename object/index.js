@@ -57,14 +57,7 @@ users = [
 // areEqual( data, data2 )  => true
 // areEqual( data, data3 )  => false
 
-// const areEqual = (value1, value2) => {
-//   if (Object.values(value1).toString() === Object.values(value2).toString()) {
-//     console.log(true);
-//   } else {
-//     console.log(false);
-//   }
-// };
-// areEqual(data, data2);
+
 
 // 2. Object ichidagi Objectni qiymatlari mavjudligini tekshirish
 
