@@ -49,6 +49,8 @@ users = [
 
 // console.log(a);
 
+//new
+
 // 1. Object kalitlari va qiymatlarini tengligini tekshirish
 // const data = { a: 1, b: 1 };
 // const data2 = { a: 1, b: 1 };
@@ -94,6 +96,6 @@ users = [
       // }
       
       // console.log(checkSame(data2, data3));
-      
+
       // checkSame( data, data2 )  => true
       // checkSame( data2, data3 )  => false
