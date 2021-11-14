@@ -120,3 +120,18 @@
 //   console.log(toq, 'toq');
 // }
 // sum();
+
+  // if (str[i] == '.' && str[i+1] !=='0'){
+//         for(let i = 0; i<str.length; i++)
+//         {
+//             if(str[i]==0){
+//                 str = str.replace(str[i],'')
+//                 i--
+//             }
+//         }
+//         return str;
+//     }
+//     }
+//     if(sum > 0)
+//     {
+//         return sum;
