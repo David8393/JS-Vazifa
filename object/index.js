@@ -86,4 +86,18 @@
 // const data3 = { c: 3, b: 5 };
 
 
+//  const checkSame = (num, num1) => {
+  //     if(Object.values(num).toString() === Object.values(num1).toString() || 
+  //     Object.keys(num).toString() === Object.keys(num1).toString()
+  //     ) {
+    //         return true
+    //     } else {
+      //         return false
+      //     }
+      // }
+      
+      // console.log(checkSame(data2, data3));
+
+      // checkSame( data, data2 )  => true
+      // checkSame( data2, data3 )  => false
       
