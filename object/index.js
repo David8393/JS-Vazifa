@@ -121,17 +121,31 @@
 // }
 // sum();
 
-  // if (str[i] == '.' && str[i+1] !=='0'){
-//         for(let i = 0; i<str.length; i++)
-//         {
-//             if(str[i]==0){
-//                 str = str.replace(str[i],'')
-//                 i--
+
+// const func = (num) => {    
+//     var temp = num;
+//     var reversed = String(num).split("").reverse().join("");
+//     return parseInt(`${temp}${reversed}`);
+// }
+// console.log(func(123456));
+// console.log(func(152));
+// console.log(func(123456789));
+
+//  if(x==='id'){
+//         let b= [];
+//         let c= [];
+//       for(i=0;i<user.length;i++){
+//          b.push(user[i].id);
+//          b.sort();
+//       }  
+//       for(i=0;i<b.length;i++){
+//           for(j=0;j<b.length;j++){
+//             if(b[i]===user[j].id){
+//          c.push(user[j]);
 //             }
-//         }
-//         return str;
+//           }    
+//       }
+//       console.log(c);
 //     }
-//     }
-//     if(sum > 0)
-//     {
-//         return sum;
+// }
+// OnSort('id')
