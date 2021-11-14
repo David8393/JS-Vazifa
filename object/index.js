@@ -39,10 +39,9 @@
 
 //sortedByName
 
-// const a = users.filter((value) => value.name === 'Eshmat') 
+// const a = users.filter((value) => value.name === 'Eshmat')
 
 // console.log(a);
-
 
 // sortedByStatus //
 
@@ -85,19 +84,39 @@
 // const data2 = { c: 1, b: 2 };
 // const data3 = { c: 3, b: 5 };
 
-
 //  const checkSame = (num, num1) => {
-  //     if(Object.values(num).toString() === Object.values(num1).toString() || 
-  //     Object.keys(num).toString() === Object.keys(num1).toString()
-  //     ) {
-    //         return true
-    //     } else {
-      //         return false
-      //     }
-      // }
-      
-      // console.log(checkSame(data2, data3));
+//     if(Object.values(num).toString() === Object.values(num1).toString() ||
+//     Object.keys(num).toString() === Object.keys(num1).toString()
+//     ) {
+//         return true
+//     } else {
+//         return false
+//     }
+// }
 
-      // checkSame( data, data2 )  => true
-      // checkSame( data2, data3 )  => false
-      
+// console.log(checkSame(data2, data3));
+
+// checkSame( data, data2 )  => true
+// checkSame( data2, data3 )  => false
+
+// function sum() {
+//   let a = '12';
+//   let b = a.split('');
+//   let juft = 0;
+//   let toq = 0;
+//   for (i = 0; i < b.length; i++) {
+//     if (i % 2 === 1) {
+//       bvc = parseFloat(b[i]);
+//       juft = juft + bvc;
+//     }
+//     if (i % 2 === 0) {
+//       bcc = parseFloat(b[i]);
+//       toq = toq + bcc;
+//     }
+ 
+//   }
+
+//   console.log(juft, 'juft');
+//   console.log(toq, 'toq');
+// }
+// sum();
